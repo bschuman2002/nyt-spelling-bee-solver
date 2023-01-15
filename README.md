@@ -1,7 +1,9 @@
 # NYT Spelling Bee Solver
 
-UNIX
+## MacOS / Linux
+
 `python3 bee-solver.py`
 
-Windows
+## Windows
+
 `python bee-solver.py`
